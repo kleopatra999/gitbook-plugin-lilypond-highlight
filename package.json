@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-lilypond-highlight",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "description": "Gitbook plugin for syntax highlighting LilyPond input",
   "main": "index.js",
   "scripts": {
