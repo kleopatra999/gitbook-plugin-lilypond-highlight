@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-lilypond-highlight",
+  "version": "0.1.0",
+  "description": "Gitbook plugin for syntax highlighting LilyPond input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitbook.com/openlilylib/gitbook-plugin-lilypond-highlight"
+  },
+  "keywords": [
+    "syntax highlighting",
+    "LilyPond"
+  ],
+  "author": "Urs Liska",
+  "license": "GPL-3.0"
+}
